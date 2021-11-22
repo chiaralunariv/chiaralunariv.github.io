@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Chiara Luna Rivolta"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "profile.jpg"
+  bio              : "PhD student @BCBL. She investigates how modality shapes perception and production of language, through the comparison of spoken and signed languages."
   location         : "San Sebastián (Basque Country, Spain)"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "crivolta@bcbl.eu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "@chiaralunariv"
   google_plus      :
   keybase          :
   instagram        :
