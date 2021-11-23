@@ -12,4 +12,4 @@ This paper is about the number 1. The number 2 is left for future work.
 
 [Download paper here](http://chiaralunariv.github.io/files/paper_1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Rivolta, C. L., Costello, B., & Carreiras, M. (2021). &quot;Language modality and temporal structure impact processing: Sign and speech have different windows of integration.&quot; <i>Journal of Memory and Language</i>. 1(1).
