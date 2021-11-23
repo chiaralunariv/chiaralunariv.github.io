@@ -1,7 +1,7 @@
 ---
 title: "Paper Title Number 2"
 collection: grants
-permalink: /grant/2010-10-01-paper-title-number-2
+permalink: /grants/2010-10-01-paper-title-number-2
 excerpt: 'CAIXA INPhINIT (10/2018 - 10/2021), Fundación La Caixa. BCBL, San Sebastian.'
 date: 
 venue: ''
