@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # "dark" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -83,8 +83,8 @@ author:
   name             : "Chiara Luna Rivolta"
   avatar           : "profile.jpg"
   bio              : "PhD student @BCBL. She investigates how modality shapes perception and production of language, through the comparison of spoken and signed languages."
-  location         : "San Sebastián (Basque Country, Spain)"
-  employer         :
+  location         : "San Sebastián \n(Basque Country, Spain)"
+  employer         : "Basque Center on \nCognition Brain and Language"
   pubmed           : 
   googlescholar    : 
   email            : "crivolta@bcbl.eu"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/chiaralunarivolta/"
   orcid            : "https://orcid.org/0000-0001-8825-3990"
   pinterest        :
   soundcloud       :
