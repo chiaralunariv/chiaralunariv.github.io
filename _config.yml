@@ -311,4 +311,4 @@ compress_html:
     envs: development
 github: [metadata]
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-hacker
