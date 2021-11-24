@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Working on Brainhack projects is a lot of fun!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,4 +10,4 @@ redirect_from:
 
 Here would go my bio!
 
-Working on Brainhack prjects is a lot of fun!
+
