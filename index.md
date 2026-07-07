@@ -4,11 +4,11 @@ I'm a postdoctoral researcher working at the intersection of sign language lingu
 
 I am currently a postdoctoral researcher at [BCBL – Basque Center on Brain and Cognition](https://www.bcbl.eu/), and will be joining the ERC-funded **HUMAN RHYTHM** project at the Rhythm & Brains Lab, UCLouvain (PI: Sylvie Nozaradan, co-PI: Rainer Polak, RITMO Centre, University of Oslo) in [Month, Year].
 
-**Research interests:** sign language processing, MEG/EEG methodology, rhythm and timing cognition, motion capture (MediaPipe/OpenPose), eye-tracking during reading, Deaf and Hard-of-Hearing populations as a novel population for rhythm research.
+**Research interests:** language in the context of Deafness, sign language processing, MEG/EEG methodology, rhythm and timing cognition, motion capture (MediaPipe/OpenPose), eye-tracking during reading
 
 📍 Based in [Brussels/Donostia — update], Belgium
-✉️ [your.email@example.com](mailto:your.email@example.com)
-🔗 [GitHub](https://github.com/chiaralunariv) · [Google Scholar](#) · [ORCID](#) · [LinkedIn](#)
+✉️ [chiaralunarivolta@gmail.com](mailto:chiaralunarivolta@gmail.com)
+🔗 [GitHub](https://github.com/chiaralunariv) · [Google Scholar](#) · [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-8825-3990) · [LinkedIn](https://www.linkedin.com/in/chiaralunarivolta/)
 
 ---
 
