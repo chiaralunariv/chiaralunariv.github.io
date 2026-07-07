@@ -1,5 +1,4 @@
 ## About
-<img width="496" height="496" alt="chiara_luna_rivolta_pic_circle" src="https://github.com/user-attachments/assets/0bcfc508-07e1-4e32-b260-71667e755d43" />
 
 I'm a postdoctoral researcher working at the intersection of sign language linguistics, cognitive neuroscience, and psycholinguistics. My work uses MEG/EEG, eye-tracking, and motion capture methods to study language processing in Deaf and hearing populations.
 
@@ -13,6 +12,6 @@ I am currently a postdoctoral researcher at [BCBL – Basque Center on Brain and
 
 ---
 
-- [Publications](publications.md)
+- [Publications and conference presentations](publications.md)
 - [Research](research.md)
 - [CV](cv.md)
