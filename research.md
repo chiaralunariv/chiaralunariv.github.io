@@ -31,11 +31,6 @@ behavioral measures, eye-tracking, MEG, and fMRI to investigate the cognitive an
 and orthographic processing in highly skilled deaf readers. The project leverages two well-established effects in
 the reading literature, the pseudohomophone effect and the transposed-letter effect, to examine whether skilled
 deaf readers access phonological and orthographic information similarly to reading-matched hearing peers or rely
-on alternative strategies. Within this project, I contributed to the design of a comprehensive behavioral test battery
-assessing participants’ cognitive and linguistic profiles. I programmed and analyzed data from an eye-tracking
-experiment investigating sentence reading using the invisible boundary paradigm. In addition, I supervised PhD
-students and research assistants in experiment programming and the collection of MEG and fMRI data.My research sits at the intersection of sign language linguistics, cognitive neuroscience, and psycholinguistics. Below are the main threads of my current and upcoming work.
+on alternative strategies.
 
 ---
-
-*Add specific project descriptions, funding acknowledgements, and collaborators here.*
