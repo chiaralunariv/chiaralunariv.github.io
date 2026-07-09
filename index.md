@@ -8,7 +8,7 @@ In October 2026 I will be joining the Rhythm & Brains Lab at UCLouvain to work o
 
 **Research interests:** language in the context of Deafness, sign language processing, MEG/EEG methodology, rhythm and timing cognition, motion capture (MediaPipe/OpenPose), eye-tracking during reading
 
-Here you can download my CV: 
+You can download my CV [here](cv.pdf)
 
 📍 Based in [Milan], Italy
 ✉️ [chiaralunarivolta@gmail.com](mailto:chiaralunarivolta@gmail.com)
