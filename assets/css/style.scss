@@ -1,0 +1,21 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-color: #fdf6ec;  /* cream background */
+  color: #4a3f35;             /* warm dark brown text */
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #b5533c;             /* terracotta titles */
+}
+
+a {
+  color: #c97b3d;             /* amber links */
+}
+
+a:hover {
+  color: #b5533c;
+}
