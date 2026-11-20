@@ -53,3 +53,32 @@ blockquote {
   border-left-color: var(--terracotta);
   color: var(--body-text);
 }
+
+.tagline {
+  margin-bottom: 0;
+}
+
+.side-nav {
+  display: block;
+  margin: 2rem 0 1.5rem;
+}
+
+.side-nav a {
+  display: block;
+  width: fit-content;
+  color: var(--terracotta);
+  font-weight: 600;
+  text-decoration: none;
+  padding: 0.3rem 0;
+  border-bottom: 1px solid transparent;
+}
+
+.side-nav a:hover,
+.side-nav a.active {
+  color: var(--terracotta-dark);
+  border-bottom-color: var(--terracotta);
+}
+
+header h1 a {
+  color: var(--chocolate);
+}
