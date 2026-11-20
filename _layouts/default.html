@@ -16,14 +16,16 @@
           <img src="{{ site.logo | relative_url }}" alt="Logo" />
         {% endif %}
 
-        <nav class="side-nav">
+        <p class="tagline">{{ site.description | default: site.github.project_tagline }}</p>
+
+  <nav class="side-nav">
           <a href="{{ '/' | relative_url }}"{% if page.url == '/' %} class="active"{% endif %}>About</a>
           <a href="{{ '/research.html' | relative_url }}"{% if page.url == '/research.html' %} class="active"{% endif %}>Research interests</a>
           <a href="{{ '/publications.html' | relative_url }}"{% if page.url == '/publications.html' %} class="active"{% endif %}>Publications &amp; conferences</a>
           <a href="{{ '/outreach.html' | relative_url }}"{% if page.url == '/outreach.html' %} class="active"{% endif %}>Outreach</a>
-        </nav>
+  </nav>
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+       
 
         {% if site.github.is_user_page %}
           <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
