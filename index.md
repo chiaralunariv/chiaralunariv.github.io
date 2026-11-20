@@ -2,7 +2,7 @@
 
 I'm a postdoctoral researcher working at the intersection of sign language linguistics, cognitive neuroscience, and psycholinguistics. My work uses MEG/EEG, eye-tracking, and motion capture methods to study language processing in Deaf and hearing populations.
 
-Since October 2026 I am a postdoctoral researcher at the Rhythm & Brains Lab at UCLouvain, led by Dr. Sylvie Nozaradan. My current project investigates rhythm categorisation across perceptual modalities, in both hearing and deaf populations.
+Since October 2026 I am a postdoctoral researcher at the [Rhythm & Brains Lab](https://uclouvain.be/en/research-institutes/ions/rhythm-brains) at UCLouvain, led by Dr. Sylvie Nozaradan. My current project investigates rhythm categorisation across perceptual modalities, in both hearing and deaf populations.
 
 I have a PhD in Cogntive Neuroscience from the University of the Basque Country (UPV-EHU) and the Basque Center on Cognition, Brain and 
 Language (BCBL). From March 2023 to December 2025 I have worked as a postdoctoral researcher at [BCBL – Basque Center on Brain and Cognition](https://www.bcbl.eu/) in the  Sign Language and Deafness group led by Dr. Brendan Costello. 
