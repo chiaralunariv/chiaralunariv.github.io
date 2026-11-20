@@ -1,21 +1,57 @@
 ---
 ---
+---
+---
 
 @import "{{ site.theme }}";
 
+:root {
+  --cream: #FAF5EC;
+  --chocolate: #3E2A20;
+  --terracotta: #B04A2F;
+  --terracotta-dark: #8F3A22;
+  --body-text: #5A4A42;
+}
+
 body {
-  background-color: #fdf6ec;  /* cream background */
-  color: #4a3f35;             /* warm dark brown text */
+  background: var(--cream);
+  color: var(--body-text);
 }
 
-h1, h2, h3, h4, h5, h6 {
-  color: #2b0404;             /*  titles */
+h1, h2, h3, h4, h5, h6, strong {
+  color: var(--chocolate);
 }
 
-a {
-  color: #2b0404;             /*  links */
+/* Clickable items */
+a,
+header a,
+footer a {
+  color: var(--terracotta);
 }
 
-a:hover {
-  color: #b5533c;
+a:hover,
+a:focus {
+  color: var(--terracotta-dark);
+  text-decoration: underline;
+}
+
+/* Softer details */
+hr {
+  border-color: #E4D9C8;
+}
+
+footer p,
+footer small,
+small {
+  color: #8A7A70;
+}
+
+code, pre {
+  background: #F1E8D8;
+  color: var(--chocolate);
+}
+
+blockquote {
+  border-left-color: var(--terracotta);
+  color: var(--body-text);
 }
