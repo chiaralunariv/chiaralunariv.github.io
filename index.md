@@ -14,7 +14,7 @@ You can download my CV [here](CV_CLRivolta.pdf)
 
 📍 Based in [Brussels], Belgium
 ✉️ [chiara.rivolta@uclouvain.be](mailto:chiara.rivolta@uclouvain.be)
-🔗 [GitHub](https://github.com/chiaralunariv) · [Google Scholar](#) · [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-8825-3990) · [LinkedIn](https://www.linkedin.com/in/chiaralunarivolta/) · [OSF Repository](https://osf.io/user/6429r)
+🔗 [GitHub](https://github.com/chiaralunariv) · [Google Scholar](https://scholar.google.it/citations?user=kmBNbggAAAAJ&hl=it) · [ORCID](https://orcid.org/my-orcid?orcid=0000-0001-8825-3990) · [LinkedIn](https://www.linkedin.com/in/chiaralunarivolta/) · [OSF Repository](https://osf.io/user/6429r)
 
 ---
 
